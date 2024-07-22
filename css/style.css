@@ -1,0 +1,29 @@
+.box{
+    background-color: rgba(248, 73, 73, 0.568);
+    padding:20px;
+    width:50%;
+    margin-left: 300px;
+    margin-top:120px;
+}
+.main1,.main2,.main3{
+    background-color: white;
+    width:590px;
+    height:45px;
+}
+.true{
+    background-color: white;
+    width:590px;
+    height:45px;
+}
+.opt0,.opt1,.opt2,.opt3{
+    background-color: rgb(255, 136, 0);
+    height: 50px;
+    width: 50px;   
+    color: white;
+    padding: 10px;
+    margin-left: -400px;
+}
+
+.option{
+    margin-left: 10px;
+}
